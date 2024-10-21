@@ -8,6 +8,7 @@ This repository contains my first Power BI dashboard, designed to analyze sales 
 Features
 
 Visualizations Used:
+
 Pie Charts: To display revenue distribution by product line and product name.
 Slicers: For filtering data based on specific criteria such as time period or product category.
 Line Charts: To track revenue trends over time.
