@@ -5,6 +5,8 @@ Overview
 This repository contains my first Power BI dashboard, designed to analyze sales data using a comprehensive dataset that includes customers, employees, offices, order details, orders, payments, product lines, and products. The dashboard provides visual insights into revenue and order quantities, helping to inform business decisions and strategies.
 
 
+
+
 Features
 
 Visualizations Used:
@@ -14,6 +16,8 @@ Slicers: For filtering data based on specific criteria such as time period or pr
 Line Charts: To track revenue trends over time.
 Tree Map: To visualize revenue contributions from different product lines and products.
 Cards: For highlighting key metrics like total revenue and total quantity ordered.
+
+
 
 
 Dataset Description
@@ -27,6 +31,8 @@ Orders: Overall data on customer orders and their statuses.
 Payments: Records of payment transactions for each order.
 Product Lines: Categories of products offered.
 Products: Specific products, including descriptions and prices.
+
+
 
 
 Analysis Performed
