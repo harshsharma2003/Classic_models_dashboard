@@ -1,9 +1,11 @@
 # Classic_models_dashboard
 
 Overview
+
 This repository contains my first Power BI dashboard, designed to analyze sales data using a comprehensive dataset that includes customers, employees, offices, order details, orders, payments, product lines, and products. The dashboard provides visual insights into revenue and order quantities, helping to inform business decisions and strategies.
 
 Features
+
 Visualizations Used:
 Pie Charts: To display revenue distribution by product line and product name.
 Slicers: For filtering data based on specific criteria such as time period or product category.
@@ -13,7 +15,8 @@ Cards: For highlighting key metrics like total revenue and total quantity ordere
 Dataset Description
 The dashboard utilizes the following tables:
 
-Customers: Information about customers, including demographics and contact details.
+Customers:
+Information about customers, including demographics and contact details.
 Employees: Data on employees who handle sales and customer service.
 Offices: Locations of the business operations.
 Order Details: Detailed information about each order, including quantities.
